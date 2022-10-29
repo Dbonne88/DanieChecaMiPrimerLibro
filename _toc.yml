@@ -7,6 +7,4 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- caption: Mi aporte
-- file: Actividad_1
-- file: Mauriocio
+- file: mymarkdownfile
