@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Mi Primer trabajo con Jupyter Books
-author: Actividad 1 de Desarrollo Web
+author: Actividad 1 de Desarrollo Web de Mauricio Checa
 logo: halloween.jpg
 
 # Force re-execution of notebooks on each build.
