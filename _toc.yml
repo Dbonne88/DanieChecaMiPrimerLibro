@@ -7,6 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- file: Actividad_1
-- file: Mauriocio
+- file: _build/html/Actividad_1
+- file: _build/html/Mauriocio
 
