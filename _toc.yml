@@ -8,5 +8,5 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - caption: Mi aporte
-- file: _build/html/Actividad_1
-- file: _build/html/Mauriocio
+- file: Actividad_1
+- file: Mauriocio
